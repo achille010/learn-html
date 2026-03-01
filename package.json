@@ -1,0 +1,27 @@
+{
+  "name": "learn-html",
+  "version": "1.0.0",
+  "description": "This is a comprehensive, modern, and accessible guide to mastering HTML5. Whether you are a total beginner or an experienced dev looking for a refresher, this course has something for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achille010/learn-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/achille010/learn-html/issues"
+  },
+  "homepage": "https://github.com/achille010/learn-html#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
