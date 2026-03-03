@@ -12,6 +12,8 @@ Now that we know the basic structure, let's learn how to add and format text on 
 6.  **Preformatted Text**: Displaying code and whitespace exactly as written.
 7.  **Superscript and Subscript**: Dealing with footnotes and formulas.
 8.  **Special Characters**: How to display symbols like `©` or `&`.
+9.  **Practice Exercises**: Test your knowledge of text and content.
+
 
 ---
-[Next: Headings](./01-headings.md)
+[Next: Headings](./01-headings.md) | [Practice Exercises](./practice-exercises.md)

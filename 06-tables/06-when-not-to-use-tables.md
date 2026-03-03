@@ -12,4 +12,4 @@ In the early days of the web, tables were used to create page layouts. **This is
 Today, we use **CSS Flexbox** and **CSS Grid** for page layouts. Join the bridge modules later to see how that works!
 
 ---
-[Back to Tables](./README.md) | [Next Module: Forms](../07-forms/README.md)
+[Back to Tables](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: Forms](../07-forms/README.md)

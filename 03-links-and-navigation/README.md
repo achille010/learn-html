@@ -11,6 +11,8 @@ Links are the essence of the web. This module explains how to connect your pages
 5.  **Email and Phone Links**: Using `mailto:` and `tel:`.
 6.  **Download Links**: Forcing a file to download.
 7.  **Navigation Menus**: Using `<nav>` and lists for menus.
+8.  **Practice Exercises**: Test your knowledge of links.
+
 
 ---
-[Next: Anchor Tags](./01-anchor-tags.md)
+[Next: Anchor Tags](./01-anchor-tags.md) | [Practice Exercises](./practice-exercises.md)

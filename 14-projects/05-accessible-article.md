@@ -16,4 +16,4 @@ Create a long-form news or blog article with high accessibility.
 -   Are you using `<mark>` to highlight key points?
 
 ---
-[Back to Projects](./README.md) | [Next: Reference Section](../reference/README.md)
+[Back to Projects](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next: Reference Section](../reference/README.md)

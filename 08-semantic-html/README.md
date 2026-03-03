@@ -13,6 +13,8 @@ In this module, we move beyond simple structure and learn how to write HTML that
 7.  **Mark, Abbr, Cite**: Inline semantic tags.
 8.  **Div vs. Semantic Elements**: When to use each.
 9.  **SEO Benefits of Semantic HTML**: Why Google loves it.
+10. **Practice Exercises**: Test your knowledge of semantic HTML.
+
 
 ---
 [Next: What is Semantic HTML?](./01-what-is-semantic-html.md)

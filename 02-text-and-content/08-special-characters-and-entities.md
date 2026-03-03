@@ -18,4 +18,4 @@ Some characters are "reserved" in HTML because they have special meanings (like 
 ```
 
 ---
-[Back to Text and Content](./README.md) | [Next Module: Links and Navigation](../03-links-and-navigation/README.md)
+[Back to Text and Content](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: Links and Navigation](../03-links-and-navigation/README.md)

@@ -25,4 +25,4 @@ Every HTML page should follow a standard "boilerplate" structure.
 -   `<body>`: Contains all the visible content.
 
 ---
-[Back to Foundations](./README.md) | [Next Module: Text and Content](../02-text-and-content/README.md)
+[Back to Foundations](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: Text and Content](../02-text-and-content/README.md)

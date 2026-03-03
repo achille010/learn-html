@@ -14,6 +14,8 @@ Accessibility (often shortened to **a11y**) means making your websites usable by
 8.  **Color Contrast**: Ensuring your text is readable.
 9.  **Accessible Forms**: A deep dive into inclusive inputs.
 10. **WCAG Overview**: Understanding the official standards.
+11. **Practice Exercises**: Test your knowledge of accessibility.
+
 
 ---
 [Next: Why Accessibility Matters](./01-why-accessibility-matters.md)

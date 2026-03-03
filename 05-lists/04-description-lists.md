@@ -19,4 +19,4 @@ A description list is used to group terms and their descriptions (like a glossar
 ```
 
 ---
-[Back to Lists](./README.md) | [Next Module: Tables](../06-tables/README.md)
+[Back to Lists](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: Tables](../06-tables/README.md)
