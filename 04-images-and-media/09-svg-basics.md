@@ -16,4 +16,4 @@
 ```
 
 ---
-[Back to Images and Media](./README.md) | [Next Module: Lists](../05-lists/README.md)
+[Back to Images and Media](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: Lists](../05-lists/README.md)

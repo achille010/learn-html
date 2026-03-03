@@ -14,6 +14,8 @@ In this module, we explore the cutting-edge features of modern HTML, including g
 8.  **Local Storage Intro**: Saving data in the browser.
 9.  **Service Workers Intro**: Enabling offline support.
 10. **Progressive Enhancement**: Building for everyone, regardless of browser.
+11. **Practice Exercises**: Test your knowledge of advanced HTML.
+
 
 ---
 [Next: Canvas Element](./01-canvas-element.md)

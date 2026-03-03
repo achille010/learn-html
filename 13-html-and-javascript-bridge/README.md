@@ -8,6 +8,8 @@ HTML provides the content, but JavaScript provides the **behavior**. This module
 2.  **DOM Intro**: The Document Object Model and how JS sees HTML.
 3.  **Event Attributes**: Responding to clicks and actions.
 4.  **Async and Defer**: Improving page load performance.
+5.  **Practice Exercises**: Test your knowledge of the HTML/JS bridge.
+
 
 ---
 [Next: Script Tag](./01-script-tag.md)

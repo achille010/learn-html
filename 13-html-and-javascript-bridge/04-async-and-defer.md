@@ -16,4 +16,4 @@ The `async` and `defer` attributes tell the browser how to load and execute your
 -   **defer**: **Best Practice** for most applications. It ensures your scripts run in the right order and don't slow down the page.
 
 ---
-[Back to Bridge](./README.md) | [Next Module: Projects](../14-projects/README.md)
+[Back to Bridge](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: Projects](../14-projects/README.md)

@@ -10,4 +10,4 @@ Making forms accessible is one of the most important tasks of a web developer. I
 5.  **Provide clear error messages**: Ensure any validation errors are visible and readable by screen readers (often using ARIA attributes).
 
 ---
-[Back to Forms](./README.md) | [Next Module: Semantic HTML](../08-semantic-html/README.md)
+[Back to Forms](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: Semantic HTML](../08-semantic-html/README.md)

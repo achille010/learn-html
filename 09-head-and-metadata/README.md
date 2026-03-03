@@ -12,6 +12,8 @@ While the `<body>` contains what users see, the `<head>` contains what the brows
 6.  **Favicon**: Adding that little icon in the browser tab.
 7.  **Linking CSS**: Connecting your styles.
 8.  **Linking JavaScript**: Adding behavior.
+9.  **Practice Exercises**: Test your knowledge of metadata.
+
 
 ---
 [Next: The Head Element](./01-the-head-element.md)

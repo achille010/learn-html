@@ -14,6 +14,8 @@ Forms are how you collect information from users. From search bars to login scre
 8.  **Fieldset and Legend**: Grouping related form fields.
 9.  **Datalist**: Providing autocomplete options.
 10. **Form Accessibility**: Making forms usable for everyone.
+11. **Practice Exercises**: Test your knowledge of forms.
+
 
 ---
 [Next: Form Basics](./01-form-basics.md)

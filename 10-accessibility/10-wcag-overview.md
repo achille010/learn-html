@@ -16,4 +16,4 @@ Every accessibility rule falls into one of these four categories:
 -   **Level AAA**: The highest level, reserved for specialized sites.
 
 ---
-[Back to Accessibility](./README.md) | [Next Module: Advanced Topics](../11-advanced-topics/README.md)
+[Back to Accessibility](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: Advanced Topics](../11-advanced-topics/README.md)

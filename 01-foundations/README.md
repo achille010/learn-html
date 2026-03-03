@@ -12,6 +12,8 @@ Welcome to the start of your HTML journey! In this module, we will cover the cor
 6.  **Attributes**: Adding extra information to your elements.
 7.  **Comments**: How to leave notes in your code.
 8.  **Document Structure**: The standard boilerplate for every HTML page.
+9.  **Practice Exercises**: Test your knowledge of foundations.
+
 
 ---
-[Next: What is HTML?](./01-what-is-html.md)
+[Next: What is HTML?](./01-what-is-html.md) | [Practice Exercises](./practice-exercises.md)

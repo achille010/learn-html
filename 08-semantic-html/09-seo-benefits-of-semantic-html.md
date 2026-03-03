@@ -11,4 +11,4 @@ Search Engine Optimization (SEO) is the process of making your site easier for s
 Writing clean, semantic HTML isn't just about accessibility; it's about making your site successful and visible to the world!
 
 ---
-[Back to Semantic HTML](./README.md) | [Next Module: Head and Metadata](../09-head-and-metadata/README.md)
+[Back to Semantic HTML](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: Head and Metadata](../09-head-and-metadata/README.md)

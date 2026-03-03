@@ -10,6 +10,8 @@ Tables are used to display structured data in a grid format. While they were onc
 4.  **thead, tbody, tfoot**: Organizing large tables.
 5.  **Accessible Tables**: Making tables readable for everyone.
 6.  **When NOT to use Tables**: Avoid using tables for page layouts.
+7.  **Practice Exercises**: Test your knowledge of tables.
+
 
 ---
 [Next: Basic Table Structure](./01-basic-table-structure.md)

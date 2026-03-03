@@ -9,6 +9,8 @@ Now it's time to put everything you've learned into practice! These projects are
 3.  **Simple Landing Page**: Focus on layout and navigation.
 4.  **Interactive Form**: A complex contact or registration form.
 5.  **Accessible Article**: Practice with semantic HTML and a11y.
+6.  **Practice Exercises**: Test your knowledge of projects.
+
 
 ## How to proceed
 Try to build these using **only HTML** first (Progressive Enhancement!). Once the structure is perfect, you can add CSS and JavaScript to make them shine.

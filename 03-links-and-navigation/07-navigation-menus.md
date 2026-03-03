@@ -19,4 +19,4 @@ A navigation menu is typically implemented using the `<nav>` tag and an unordere
 The `<nav>` element is a semantic tag that tells search engines and screen readers that this section contains major navigation links.
 
 ---
-[Back to Links and Navigation](./README.md) | [Next Module: Images and Media](../04-images-and-media/README.md)
+[Back to Links and Navigation](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: Images and Media](../04-images-and-media/README.md)

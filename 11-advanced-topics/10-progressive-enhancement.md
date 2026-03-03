@@ -11,4 +11,4 @@
 It ensures that your site is accessible to **everyone**, regardless of their browser's capabilities or their internet speed. If your JavaScript fails to load, the user can still read your content and use your forms!
 
 ---
-[Back to Advanced Topics](./README.md) | [Next Module: HTML and CSS Bridge](../12-html-and-css-bridge/README.md)
+[Back to Advanced Topics](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: HTML and CSS Bridge](../12-html-and-css-bridge/README.md)

@@ -8,6 +8,8 @@ Lists are fundamental for organizing information. HTML provides several ways to 
 2.  **Ordered Lists**: Creating numbered lists with `<ol>`.
 3.  **Nested Lists**: Putting lists inside other lists.
 4.  **Description Lists**: Creating "name/value" pairs with `<dl>`.
+5.  **Practice Exercises**: Test your knowledge of lists.
+
 
 ---
-[Next: Unordered Lists](./01-unordered-lists.md)
+[Next: Unordered Lists](./01-unordered-lists.md) | [Practice Exercises](./practice-exercises.md)

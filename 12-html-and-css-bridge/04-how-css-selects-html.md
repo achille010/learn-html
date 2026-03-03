@@ -24,4 +24,4 @@ article h2 { color: blue; } /* Selects H2 tags inside Articles */
 ```
 
 ---
-[Back to Bridge](./README.md) | [Next Module: HTML and JavaScript Bridge](../13-html-and-javascript-bridge/README.md)
+[Back to Bridge](./README.md) | [Practice Exercises](./practice-exercises.md) | [Next Module: HTML and JavaScript Bridge](../13-html-and-javascript-bridge/README.md)

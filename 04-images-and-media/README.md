@@ -13,6 +13,8 @@ Websites aren't just text; they are rich with multimedia. This module covers how
 7.  **Video**: Embedding local and remote videos.
 8.  **YouTube and iFrames**: Embedding external content.
 9.  **SVG Basics**: Scalable Vector Graphics.
+10. **Practice Exercises**: Test your knowledge of media.
+
 
 ---
-[Next: img Tag Basics](./01-img-tag-basics.md)
+[Next: img Tag Basics](./01-img-tag-basics.md) | [Practice Exercises](./practice-exercises.md)
